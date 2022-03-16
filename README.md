@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Frank</h1>
-<h3 align="center">A passionate full stack developer from Perú</h3>
+<h3 align="center">A profesional full stack developer from Perú</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fralch&label=Profile%20views&color=0e75b6&style=flat" alt="fralch" /> </p>
 
